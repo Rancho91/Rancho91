@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 ![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)
@@ -127,7 +126,8 @@ const sanchezRamiroSill = {
     
   Esta aplicación combina bases de datos, backend y frontend. Es un mercado de videojuegos que desarrollé en equipo utilizando Trello y GitHub, lo que me permitió adquirir nuevas herramientas. Ofrece la posibilidad de iniciar sesión a través de Auth0, cargar saldo en la billetera de la página con Stripe, agregar juegos a una lista de favoritos y comprarlos. La base de datos es relacional con PostgreSQL, lo que permite guardar los juegos comprados, relacionarlos con el usuario que los compró y registrar sus transacciones.
 
-  Además, implementamos tres paneles de control en la página: uno para clientes, que realiza las funciones anteriormente descritas; otro para vendedores, que pueden crear videojuegos y ponerlos a la venta; y un tercero para administradores, que tienen acceso completo a la página. Cada panel de control tiene una interfaz de información detallada, que incluye información sobre los juegos vendidos, la recaudación de ventas, la lista de usuarios, la
+    Además, implementamos tres paneles de control en la página: uno para los clientes, que realiza las funciones descritas anteriormente; otro para los vendedores, que pueden crear videojuegos y ponerlos a la venta; y un tercero para los administradores, que tienen acceso completo a la página. Cada panel de control tiene una interfaz de información detallada, que incluye información sobre los juegos vendidos, los ingresos de ventas, las listas de usuarios, la posibilidad de prohibirlos y eliminarlos lógicamente, entre otras opciones.
+
    <!-- <a href="">aquí</a> -->
 
 
