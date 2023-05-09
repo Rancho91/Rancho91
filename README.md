@@ -1,6 +1,6 @@
 
 
-![Port]([https://i.postimg.cc/ydkR2sLS/imagen.png](https://res.cloudinary.com/dxatwbzff/image/upload/v1683658318/que-son-paradigmas-programacion-1024x478_tkqx6o.jpg))
+![Port](https://res.cloudinary.com/dxatwbzff/image/upload/v1683658318/que-son-paradigmas-programacion-1024x478_tkqx6o.jpg)
 <h1 align="center"> Hola, mi nombre es Ramiro Sanchez. 👋 </h1>
 <hr/>
 <h2 align="center"> Contacto </h2>
