@@ -1,6 +1,6 @@
 
 
-![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)
+![Port]([https://i.postimg.cc/ydkR2sLS/imagen.png](https://res.cloudinary.com/dxatwbzff/image/upload/v1683658318/que-son-paradigmas-programacion-1024x478_tkqx6o.jpg))
 <h1 align="center"> Hola, mi nombre es Ramiro Sanchez. 👋 </h1>
 <hr/>
 <h2 align="center"> Contacto </h2>
@@ -67,18 +67,14 @@ const sanchezRamiroSill = {
 <div>
   <h4>English</h4>
   <p>
-    I have always been interested in the educational and training fields. Currently, I am studying the University Technical Degree in Programming at the National Technological University in Córdoba, Argentina. Additionally, I have recently completed the Soy Henry bootcamp in Full Stack Web Development.
-
-    I work very well in teams and possess resilient and empathetic qualities. I can communicate my concerns effectively and actively listen to help my colleagues resolve their issues. Moreover, I can see potential in people even when they may not recognize it themselves.
+    I have always been interested in the educational and training fields. Currently, I am studying the University Technical Degree in Programming at the National Technological University in Córdoba, Argentina. Additionally, I have recently completed the Soy Henry bootcamp in Full Stack Web Development.I work very well in teams and possess resilient and empathetic qualities. I can communicate my concerns effectively and actively listen to help my colleagues resolve their issues. Moreover, I can see potential in people even when they may not recognize it themselves.
   </p>
 </div>
 
 <div>
   <h4>Spanish</h4>
   <p>
-    Siempre he estado interesado/a en el ámbito educativo y formativo, y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional, en Córdoba, Argentina. Además, recientemente completé el bootcamp de Soy Henry en Desarrollo Web Full Stack.
-
-    Soy una persona que se desempeña muy bien en equipo, y cuento con habilidades de resiliencia y empatía. Puedo comunicar mis inquietudes y también realizar una escucha activa para ayudar a mis compañeros a resolver sus problemas. Además, suelo ver el potencial en las personas, incluso cuando ellas mismas no lo perciben.
+    Siempre he estado interesado/a en el ámbito educativo y formativo, y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional, en Córdoba, Argentina. Además, recientemente completé el bootcamp de Soy Henry en Desarrollo Web Full Stack. Soy una persona que se desempeña muy bien en equipo, y cuento con habilidades de resiliencia y empatía. Puedo comunicar mis inquietudes y también realizar una escucha activa para ayudar a mis compañeros a resolver sus problemas. Además, suelo ver el potencial en las personas, incluso cuando ellas mismas no lo perciben.
   </p>
 </div>
 
