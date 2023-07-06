@@ -1,8 +1,9 @@
-
-
-![Port](https://res.cloudinary.com/dxatwbzff/image/upload/v1683658318/que-son-paradigmas-programacion-1024x478_tkqx6o.jpg)
 <h1 align="center"> Hola, mi nombre es Ramiro Sanchez. 👋 </h1>
 <hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rancho91&show_icons=true&locale=en&layout=compact" alt="Rancho91" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rancho91&show_icons=true&locale=en" alt="Rancho91" /></p>
+
 <h2 align="center"> Contacto </h2>
 
 <h4>  Me puedes contactar en: </h4>
