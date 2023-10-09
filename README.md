@@ -44,14 +44,15 @@
 const sanchezRamiroSill = {
   Skills: {
       DataBase:[
-        SQL: ['PostgreSQL', 'SQL-Server']
+        SQL: ['PostgreSQL', 'SQL-Server'],
+        NoSQL: ['MongoDB'],
       ]
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize'],
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Mongoose'],
           .Net: ['C#']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
+          {JavaScript: ['React', 'React-Native', 'Redux','Next', 'Boostrap', 'Tailwind']}
         ]
     },
   Proyects: [
