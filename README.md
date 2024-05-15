@@ -127,10 +127,9 @@ I have always been interested in the educational and training field, and current
 <a href="https://agustinostric.com/">Agustin ostric Photographer</a> 
 
 </p>
- 
  <p>
-
-    Este proyecto es un pagina de gestion para un fotografo, es un proyecto de gestion el usuario puede logearse a traves de Okta y poder subir, editar y gestionar sus fotos y articulos. Fue desarrollado con clodinary para el almasenamiento de imagenes, talwind para los estilos y Next, a nivel backend se utilizo Nest, Prysma y postgreSQL, a traves de okta se             gestionan los token y los permisos para la apiRest. 
+    Este proyecto es un pagina de gestion para un fotografo, es un proyecto de gestion el usuario puede logearse a traves de Okta y poder subir, editar y gestionar sus fotos y articulos. Fue desarrollado con clodinary para el almasenamiento de imagenes, talwind para los estilos y Next, a nivel backend se utilizo Nest, Prysma y postgreSQL, a traves de okta se gestionan los token y los permisos para la apiRest.
+    
 <a href="https://agustinostric.com/">Agustin ostric Fotografo</a> 
 
 </p>
