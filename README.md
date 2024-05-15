@@ -100,7 +100,7 @@ I have always been interested in the educational and training field, and current
 <p>
     Esta participacion se realizo en a traves de la empresa Quinto Impacto, fue una practica pre profesional que duro 11 semanas. Consistió en realizar un proyecto de gestion, dicho proyecto tenia la implementacion de 3 roles distintos, el visitante, el proveedor y el administrador. Se realizaron restricciones de peticiones y manejo de token, como tambien sesiones y proteccion de rtutas interna en el front. Dicha experiencia se realizo con metodologias agiles, Scrum, con la participacion de un pm de la empresa que coordinaba el dia a dia, Tambien se realizaban demostraciones simulando la presentacion del proyecto a un cliente donde participaban responsables de la empresa. 
 
-   <!-- <a href="https://www.youtube.com/watch?v=uJifntArCTc">Presentacion final</a> -->
+  <a href="https://www.youtube.com/watch?v=uJifntArCTc">Presentacion final</a>
 
 </p>
 
@@ -120,20 +120,23 @@ I have always been interested in the educational and training field, and current
     <li>Prisma</li>
     <li>PostgreSQL</li>
 </ul>
-    
+     <p>
     This project is a management page for a photographer. It's a management project where users can log in through Okta and upload, edit, and manage their photos and articles.
 
     It was developed using Cloudinary for image storage, Tailwind for styles, and Next.js. On the backend, Nest.js, Prisma, and PostgreSQL were used. Okta manages tokens and permissions     for the REST API.
 
-    [Agustin ostric Photographer](https://agustinostric.com/)
+<a href="https://agustinostric.com/">Agustin ostric Photographer</a> 
+</p>
+ <a href="">here</a>
+ <p>
 
- <!-- <a href="">here</a> -->
     Este proyecto es un pagina de gestion para un fotografo, es un proyecto de gestion el usuario puede logearse a traves de Okta y poder subir, editar y gestionar sus fotos y articulos.
    
     Fue desarrollado con clodinary para el almasenamiento de imagenes, talwind para los estilos y Next, a nivel backend se utilizo Nest, Prysma y postgreSQL, a traves de okta se             gestionan los token y los permisos para la apiRest. 
 
+</p>
 
-   <!-- <a href="https://agustinostric.com/">Agustin ostric Fotografo</a> -->
+<a href="https://agustinostric.com/">Agustin ostric Fotografo</a> 
 
 
 <hr/>
