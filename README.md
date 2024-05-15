@@ -56,8 +56,7 @@ const sanchezRamiroSill = {
         ]
     },
   Proyects: [
-      {FOODApp: ['React', 'NodeJS', 'Sequelize', 'Redux']},
-      {videogamesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL', 'Auth0', 'Stripe', 'NodeMeiler']}
+      {QuintoImpacto: ['React', 'Java', 'MariaDB', 'Springboot', 'Materials']},
     ],
 }
 ```
@@ -76,7 +75,7 @@ const sanchezRamiroSill = {
 <div>
   <h4>Spanish</h4>
   <p>
-    Siempre he estado interesado/a en el ámbito educativo y formativo, y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional, en Córdoba, Argentina. Además, recientemente completé el bootcamp de Soy Henry en Desarrollo Web Full Stack. Soy una persona que se desempeña muy bien en equipo, y cuento con habilidades de resiliencia y empatía. Puedo comunicar mis inquietudes y también realizar una escucha activa para ayudar a mis compañeros a resolver sus problemas. Además, suelo ver el potencial en las personas, incluso cuando ellas mismas no lo perciben.
+I have always been interested in the educational and training field, and currently, I am studying the University Degree in Programming at the National Technological University, in Córdoba, Argentina. Additionally, I recently completed my pre-professional internship at the Fifth Impact Seedbed as a Full Stack Web Developer. I am someone who performs very well in a team, and I have skills in resilience and empathy. I can communicate my concerns and also engage in active listening to help my colleagues solve problems. 
   </p>
 </div>
 
@@ -86,7 +85,7 @@ const sanchezRamiroSill = {
 <h2 align="center">Projects / Proyectos</h2>
 <hr/>
 
-<h2> FOOD App </h2>
+<h2>Ecosistema </h2>
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
   <h5>|--| Full Stack |--|</h5>
@@ -95,38 +94,46 @@ const sanchezRamiroSill = {
     <li>Sequelize</li>
     <li>Redux</li>
 </ul>
-<p>This was one of my first applications using React. I implemented all the knowledge acquired at Soy Henry to create a list of food recipes. In the application, you can search for recipes by name or filter them. When selecting a recipe, detailed information about the diet, description, and steps to prepare it will be displayed. Additionally, users can create new recipes with images, descriptions, information about diets, and steps to prepare it, as well as delete recipes from the database.
-    </p>
-<p>Esta fue una de mis primeras aplicaciones utilizando React. Implementé todos los conocimientos adquiridos en Soy Henry para crear una lista de recetas de comida. En la aplicación se puede buscar por el nombre de la receta o filtrarlas. Al seleccionar una receta, se mostrará información detallada sobre la dieta, descripción y los pasos para prepararla. Además, los usuarios pueden crear nuevas recetas, con imágenes, descripciones, información sobre las dietas y los pasos para prepararla, así como eliminar recetas de la base de datos.
-    </p>
+<p>
+    This participation was carried out through the company Fifth Impact. It was a pre-professional internship that lasted for 11 weeks. It consisted of carrying out a management project, which included the implementation of three different roles: the visitor, the provider, and the administrator. Restrictions on requests and token management were implemented, as well as sessions and internal route protection on the frontend. This experience was conducted using agile methodologies, specifically Scrum, with the participation of a project manager from the company who coordinated the day-to-day activities. Demonstrations were also held, simulating the presentation of the project to a client, with company representatives participating.
+</p>
+<p>
+    Esta participacion se realizo en a traves de la empresa Quinto Impacto, fue una practica pre profesional que duro 11 semanas. Consistió en realizar un proyecto de gestion, dicho proyecto tenia la implementacion de 3 roles distintos, el visitante, el proveedor y el administrador. Se realizaron restricciones de peticiones y manejo de token, como tambien sesiones y proteccion de rtutas interna en el front. Dicha experiencia se realizo con metodologias agiles, Scrum, con la participacion de un pm de la empresa que coordinaba el dia a dia, Tambien se realizaban demostraciones simulando la presentacion del proyecto a un cliente donde participaban responsables de la empresa. 
+
+   <!-- <a href="https://www.youtube.com/watch?v=uJifntArCTc">Presentacion final</a> -->
+
+</p>
 
 <hr/>
 
-<h2> Videogames App </h2>
+<h2> Agustin Ostric Fotografo </h2>
 
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
   <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
+    <li>Next</li>
+    <li>Tailwind</li>
+    <li>TypeScript</li>
   <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
+    <li>NestJS</li>
     <li>Express</li>
-    <li>Sequelize</li>
+    <li>Prisma</li>
     <li>PostgreSQL</li>
 </ul>
     
-  This application combines databases, backend, and frontend. It is a video game marketplace that I developed with a team using Trello and GitHub, which allowed me to acquire new skills. It offers the possibility to log in through Auth0, load balance on the website's wallet with Stripe, add games to a favorites list, and purchase them. The database is relational with PostgreSQL, which allows saving purchased games, linking them to the user who bought them, and recording their transactions.
+    This project is a management page for a photographer. It's a management project where users can log in through Okta and upload, edit, and manage their photos and articles.
 
-  Additionally, we implemented three dashboards on the page: one for customers, which performs the functions described above; another for sellers, who can create video games and put them up for sale; and a third for administrators, who have full access to the page. Each dashboard has a detailed information interface, which includes information about sold games, sales revenue, user lists, the possibility to ban them and delete them logically, among other options.
+    It was developed using Cloudinary for image storage, Tailwind for styles, and Next.js. On the backend, Nest.js, Prisma, and PostgreSQL were used. Okta manages tokens and permissions     for the REST API.
+
+    [Agustin ostric Photographer](https://agustinostric.com/)
 
  <!-- <a href="">here</a> -->
-    
-  Esta aplicación combina bases de datos, backend y frontend. Es un mercado de videojuegos que desarrollé en equipo utilizando Trello y GitHub, lo que me permitió adquirir nuevas herramientas. Ofrece la posibilidad de iniciar sesión a través de Auth0, cargar saldo en la billetera de la página con Stripe, agregar juegos a una lista de favoritos y comprarlos. La base de datos es relacional con PostgreSQL, lo que permite guardar los juegos comprados, relacionarlos con el usuario que los compró y registrar sus transacciones.
+    Este proyecto es un pagina de gestion para un fotografo, es un proyecto de gestion el usuario puede logearse a traves de Okta y poder subir, editar y gestionar sus fotos y articulos.
+   
+    Fue desarrollado con clodinary para el almasenamiento de imagenes, talwind para los estilos y Next, a nivel backend se utilizo Nest, Prysma y postgreSQL, a traves de okta se             gestionan los token y los permisos para la apiRest. 
 
-    Además, implementamos tres paneles de control en la página: uno para los clientes, que realiza las funciones descritas anteriormente; otro para los vendedores, que pueden crear videojuegos y ponerlos a la venta; y un tercero para los administradores, que tienen acceso completo a la página. Cada panel de control tiene una interfaz de información detallada, que incluye información sobre los juegos vendidos, los ingresos de ventas, las listas de usuarios, la posibilidad de prohibirlos y eliminarlos lógicamente, entre otras opciones.
 
-   <!-- <a href="">aquí</a> -->
+   <!-- <a href="https://agustinostric.com/">Agustin ostric Fotografo</a> -->
 
 
 <hr/>
